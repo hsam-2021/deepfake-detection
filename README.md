@@ -108,7 +108,7 @@ The prediction pipeline will give the predictionby first splitting the videos in
 ##  Future Scope
 
 ### Below are some ideas that can improve the face detection 
-- [ ]  Use cut out technique to improve the deepfake detection as the deepfake creation gets better the detection technique also needs to improve.
+- [ ]  Use cut out technique to improve the deepfake detection.
 - [ ] Deploying the applications in free cloud.
 
 ## Acknowledgement
