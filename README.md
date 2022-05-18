@@ -10,7 +10,7 @@ In this project, we have worked on a novel Res-Next convolution neural network t
 ##  Directory Structure
 Project structure should be as below:
 ```
-Deepfake_detection_miniproject_3
+Create new folder under that make following folders.
     
     --> Django Application : In this folder all the cloned files should be placed except model creation.
     
