@@ -112,7 +112,7 @@ The prediction pipeline will give the predictionby first splitting the videos in
 - [ ] Deploying the applications in free cloud.
 
 ## Acknowledgement
- Our sincere gratitute and thanks to our professors and Teaching assistants for their guidance and support during this project.
+ Our sincere gratitute and thanks to our professors and Teaching assistants for their guidance and support for the project development.
  
 [Siddharth Garg](https://engineering.nyu.edu/faculty/siddharth-garg?msclkid=47fb5f5dabed11ecbf387043e42d37ff)
 
