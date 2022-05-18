@@ -100,6 +100,22 @@ The size of the video should not be more than 100 MB.
 
 The prediction pipeline will give the predictionby first splitting the videos into frames, then do prediction and show real or fake as output.
 
+## Experiments
+To make better deepfakes we used DeepFaceLab XSEG masking techniques and SEAHD merging techniques and train for 20K iterations got following results.
+
+### XSEG masking
+
+![image](https://user-images.githubusercontent.com/94940146/168952299-20cf754d-8fbc-49fd-9606-a1bd93b7482b.png)
+
+### SEAHD merging
+
+![image](https://user-images.githubusercontent.com/94940146/168952131-16fba044-01bc-4d74-8df2-7cc640cc04ea.png)
+
+## Conclusions
+
+We tried to create better deepfake and then improve our detection model by doing some architectural changes, but as the artifacts were very less the model cpuld not detect such high quality deepfakes . However it performed with >90% accuracy on DFDC and Celeb deepfake datasets.
+
+
 ##  Contributors
    1. [Harshada Sinha](hs4703@nyu.edu)
    2. [Vaishnavi Rajput](vr2229@nyu.edu)
