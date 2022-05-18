@@ -14,7 +14,7 @@ Deepfake_detection_miniproject_3
     
     --> Django Application : In this folder all the cloned files should be placed except model creation.
     
-    --> Model Creation: 
+    --> Model Creation
 ```
 1. Django Application 
    - In this directory the web application is saved. In this web application user can upload a short video and in real time the pretrained model will make prediction         whether the video is fake or pristine.
