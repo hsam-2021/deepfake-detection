@@ -118,8 +118,7 @@ We tried to create better deepfake and then improve our detection model by doing
 
 ##  Contributors
    1. [Harshada Sinha](hs4703@nyu.edu)
-   2. [Vaishnavi Rajput](vr2229@nyu.edu)
-   3. [Drishti Singh](ds6730@nyu.edu)
+
    
 
 ##  Future Scope
