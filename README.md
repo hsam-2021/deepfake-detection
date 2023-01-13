@@ -2,9 +2,9 @@
 
 
 ## Introduction
-We present a web based application for automatic detection of replacement and reenactment of deep fakes. We worked on a novel Res-Next convolution neural network for face reenactment which works for pose and expression variations and can be applied to single image or a video sequence. Our Res-Next Convolution neural network extracts the frame level features and these features used to train the Long Short Term Memory (LSTM) based Recurrent Neural Network (RNN) to classify whether the video is subject to any kind of manipulation or not. To emulate real time scenarios and make model performance better, we evaluated our model on the Celeb Deep Fake and DFDC dataset. 
+I present a web based application for automatic detection of replacement and reenactment of deep fakes. I worked on a novel Res-Next convolution neural network for face reenactment which works for pose and expression variations and can be applied to single image or a video sequence. Our Res-Next Convolution neural network extracts the frame level features and these features used to train the Long Short Term Memory (LSTM) based Recurrent Neural Network (RNN) to classify whether the video is subject to any kind of manipulation or not. To emulate real time scenarios and make model performance better, I evaluated our model on the Celeb Deep Fake and DFDC dataset. 
 
-In this project, we have worked on a novel Res-Next convolution neural network to detect whether the given video is deep faked or pristine. We trained the model on  the Celeb Deep Fake and DFDC dataset specifically and tried to improve the accuracy by experimenting with the depth and width of the architecture.
+In this project, I have worked on a novel Res-Next convolution neural network to detect whether the given video is deep faked or pristine. I trained the model on  the Celeb Deep Fake and DFDC dataset specifically and tried to improve the accuracy by experimenting with the depth and width of the architecture.
 
 
 ##  Directory Structure
@@ -101,7 +101,7 @@ The size of the video should not be more than 100 MB.
 The prediction pipeline will give the predictionby first splitting the videos into frames, then do prediction and show real or fake as output.
 
 ## Experiments
-To make better deepfakes we used DeepFaceLab XSEG masking techniques and SEAHD merging techniques and train for 20K iterations got following results.
+To make better deepfakes I used DeepFaceLab XSEG masking techniques and SEAHD merging techniques and train for 20K iterations got following results.
 
 ### XSEG masking
 
@@ -113,7 +113,7 @@ To make better deepfakes we used DeepFaceLab XSEG masking techniques and SEAHD m
 
 ## Conclusions
 
-We tried to create better deepfake and then improve our detection model by doing some architectural changes, but as the artifacts were very less the model cpuld not detect such high quality deepfakes . However it performed with >90% accuracy on DFDC and Celeb deepfake datasets.
+I tried to create better deepfake and then improve our detection model by doing some architectural changes, but as the artifacts were very less the model cpuld not detect such high quality deepfakes . However it performed with >90% accuracy on DFDC and Celeb deepfake datasets.
 
 
 ##  Contributors
